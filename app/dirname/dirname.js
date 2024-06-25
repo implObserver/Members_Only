@@ -1,0 +1,1 @@
+export const __dirname = '/home/observer/repos/Members_Only/';
